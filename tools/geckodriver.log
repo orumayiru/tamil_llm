@@ -1,0 +1,70 @@
+1682038979896	geckodriver	INFO	Listening on 127.0.0.1:49759
+1682038981038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenbwFZH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682038982550	Marionette	INFO	Marionette enabled
+1682038982558	Marionette	INFO	Listening on port 33703
+Read port: 33703
+WebDriver BiDi listening on ws://127.0.0.1:56101
+1682038982840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenbwFZH/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56101/devtools/browser/ec2b3a5f-fb83-4610-8651-94b3924d467d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682039044889	Marionette	INFO	Stopped listening on port 33703
+1682039045079	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1682039052063	geckodriver	INFO	Listening on 127.0.0.1:56121
+1682039052644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyhbQQh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682039053667	Marionette	INFO	Marionette enabled
+1682039053677	Marionette	INFO	Listening on port 36567
+Read port: 36567
+WebDriver BiDi listening on ws://127.0.0.1:60989
+1682039053917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyhbQQh/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60989/devtools/browser/0a867cc9-8de6-411a-9ab1-2c26ec4ba2e7
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1682039458404	geckodriver	INFO	Listening on 127.0.0.1:53487
+1682039458984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqCnv4G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682039460018	Marionette	INFO	Marionette enabled
+1682039460026	Marionette	INFO	Listening on port 36363
+Read port: 36363
+WebDriver BiDi listening on ws://127.0.0.1:43519
+1682039460262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqCnv4G/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43519/devtools/browser/2e54ef0b-1f74-4978-846e-931d0098445c
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1682039488057	geckodriver	INFO	Listening on 127.0.0.1:49349
+1682039488641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYCng0o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682039489694	Marionette	INFO	Marionette enabled
+1682039489701	Marionette	INFO	Listening on port 45015
+Read port: 45015
+WebDriver BiDi listening on ws://127.0.0.1:34363
+1682039489938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYCng0o/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34363/devtools/browser/3f452d37-71b0-4c6c-9048-d303fc1c83d3
+1682039518233	Marionette	INFO	Stopped listening on port 45015
+1682039519302	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
